@@ -137,21 +137,21 @@ p {
   background-image: linear-gradient(to bottom, #3cb0fd, #0423bd);
   text-decoration: none;
 }
-.instagram-logo{
+/* .instagram-logo{
   height: 33px;
   width: 48px;
-  position: relative;
+  position: absolute;
   left: 196px;
   bottom: 19px;
 }
 .facebook-logo {
   height: 45px;
   width: 55px;
-  position: relative;
+  position: absolute;
   left: 27px;
   bottom: 13px;
 }
 .footer-link {
   position: relative;
   right: 58px;
-}
+} */
